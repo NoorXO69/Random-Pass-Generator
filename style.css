@@ -5,8 +5,8 @@
     box-sizing: border-box;
 }
 body{
-    background: #002339;
-    color: #fff;
+    background: #F2E8C6;
+    color: #343131;
 }
 .container{
     margin: 12%;
@@ -30,8 +30,8 @@ body{
     font-size: 45px;
 }
 .container h1 span{
-    color: #019f55;
-    border-bottom: 4px solid #019f55;
+    color: #A04747;
+    border-bottom: 4px solid #A04747;
     padding-bottom: 7px;
 }
 .display img{
@@ -50,7 +50,7 @@ body{
 .container button{
     border: 0;
     outline: 0;
-    background: #019f55;
+    background: #A04747;
     color: #fff;
     font-size: 22px;
     font-weight: 300;
